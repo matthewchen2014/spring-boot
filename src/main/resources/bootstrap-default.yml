@@ -1,0 +1,5 @@
+address: 192.168.1.110
+my:
+  servers:
+    - default.server.com
+    - advance.server.com
