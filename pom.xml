@@ -10,7 +10,7 @@
 
   <name>spring-boot</name>
   <url>https://github.com/matthewchen2014/spring-boot.git</url>
-
+  <description>This is the open-source spring-boot demo project</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
