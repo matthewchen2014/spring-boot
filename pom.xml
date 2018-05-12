@@ -10,6 +10,7 @@
 
   <name>spring-boot</name>
   <url>https://github.com/matthewchen2014/spring-boot.git</url>
+  <description>This is a spring-boot demo project</description>
 
 
   <properties>
