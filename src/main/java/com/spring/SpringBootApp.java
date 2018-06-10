@@ -8,10 +8,10 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
  *
  */
 @SpringBootApplication
-public class App
+public class SpringBootApp
 {
     public static void main( String[] args )
     {
-        new SpringApplicationBuilder(App.class).properties("spring.config.name=bootstrap").run(args);
+        new SpringApplicationBuilder(SpringBootApp.class).properties("spring.config.name=bootstrap").run(args);
     }
 }
