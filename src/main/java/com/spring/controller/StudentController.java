@@ -13,8 +13,7 @@ public class StudentController {
 
     @RequestMapping(value = "/get", method = RequestMethod.POST, produces = "application/json")
     public CollegeStudent get(@RequestBody CollegeStudent collegeStudent){
-        //System.out.println(collegeStudent.getBirthDay());
-
+        System.out.println(collegeStudent.getBirthDay());
         return collegeStudent;
     }
 }
